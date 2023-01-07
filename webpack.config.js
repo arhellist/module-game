@@ -1,3 +1,3 @@
 module.exports = {
-    entry: "./index.js",
+    entry: "./src/js/app.js",
 }
